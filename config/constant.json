@@ -1,0 +1,42 @@
+{
+  "SALE_TYPE": [
+    "pre",
+    "private",
+    "public",
+    "none"
+  ],
+  "SALE_TYPE_ENUM": [
+    "PreSale",
+    "PrivateSale",
+    "PublicSale"
+  ],
+  "BLOCKCHAIN_NETWORK_ENUM": [
+    "testnet",
+    "mainnet"
+  ],
+  "WALLET_TYPE_ENUM": [
+    "Metamask",
+    "Tron"
+  ],
+  "ABOUT_ICB_ENUM": [
+    "GOOGLE",
+    "NEWS",
+    "SOCIAL_MEDIA",
+    "ICB_COMMUNITY"
+  ],
+  "ESTIMATE_AMOUNT_ENUM": [
+    "50k",
+    "50-10k",
+    "10-5k",
+    "less than 5k"
+  ],
+  "BLOCKCHAIN_ENUM": [
+    "ethereum",
+    "polygon",
+    "BNB",
+    "TRX"
+  ],
+  "allowedIPs": [
+    "14.99.95.122"
+  ]
+}
